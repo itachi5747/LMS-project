@@ -1,4 +1,4 @@
-# Ultimate Auth - Learning Management System (LMS)
+# Learning Management System (LMS)
 
 A comprehensive, role-based Learning Management System built with the MERN stack (MongoDB, Express.js, React, Node.js). This application provides a complete solution for educational institutions to manage students, instructors, courses, assignments, attendance, and results.
 
